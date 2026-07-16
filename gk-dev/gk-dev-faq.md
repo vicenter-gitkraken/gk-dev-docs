@@ -32,11 +32,11 @@ If you have questions, please [contact our sales team](https://www.gitkraken.com
 First, navigate to [gk.dev](gitkraken.dev), then select the dropdown in the top left and select your licensed organization.
 
 <figure>
-  <img src="/wp-content/uploads/gk-dev-org-select" class="help-center-img center img-bordered">
+  <img src="/wp-content/uploads/gk-dev-org-select.png" class="help-center-img center img-bordered">
   <figcaption style="text-align: center; color: #888;">Select your default organization on gk.dev</figcaption>
 </figure>
 
-Then sign out, and back in to the GitKraken Client.
+Then sign out, and back in to the GitKraken Desktop client.
 
 To do so, navigate to:
 <em class='context-menu'><i class="fa fa-bars"> </i>  <i class='fa fa-caret-right'></i> Sign into a different account</em>
